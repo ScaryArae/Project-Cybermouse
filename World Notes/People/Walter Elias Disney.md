@@ -1,4 +1,3 @@
-%% Overview %%
 
 ## Early Career
 
@@ -34,7 +33,7 @@ The opening of Disneyland saw great successes, and it wasn't too long before Wal
 
 ## The Epcot Project
 
-EPCOT, or the experimental prototype community of tomorrow, was Walt's Vision of a livable community that was a catalyst for American industry, emerging technology, and enterprise. The project, which included not just the EPCOT but also another [[Magic Kindom|theme park]] and much more, was a massive undertaking and required the sponsorship of several much larger corporations.
+EPCOT, or the experimental prototype community of tomorrow, was Walt's Vision of a livable community that was a catalyst for American industry, emerging technology, and enterprise. The project, which included not just the EPCOT but also another [[Magic Kingdom|theme park]] and much more, was a massive undertaking and required the sponsorship of several much larger corporations.
 
 Walt sought to create an ideal city that embodied his futurist vision for society. While the plans for the development did include a theme park, that was primarily included to reassure investors following the successes of California's Disneyland. Walt's near entire focus was on his city of tomorrow.
 
@@ -48,4 +47,6 @@ The riots took a heavy toll on Walt and in the year following his health sharply
 As it turned out, since around the time the EPCOT project was finished, Walt had been working with [[Biotechnica|Monsanto]] to experiment with life extending bio technology. While they were ultimately unsuccessful in finding a way to extend Walt's life before his passing, they were able to develop the means to preserve his body in a pseudo death stasis until further research could be done. 
 ## Uncle Walt
 
-WIP
+In the early 2020s the Disney company began developing an AI built around Walt's memories and his public persona. This AI "Personality" was finished in 2021, and after an extensive amount of supporting cyberware was installed into the preserved corpse, was implanted into the neural system of Walt Disney.
+
+Alive once again, Uncle Walt was immediately declared the CEO of the company, though despite this new title this new Walt had little to no free will. The company remained controlled by its board of directors, comprised largely of the EMco Council.
