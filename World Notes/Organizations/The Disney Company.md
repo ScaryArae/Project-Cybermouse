@@ -37,5 +37,10 @@ Disney Manufacturing primarily oversees [[WED enterprises]], formerly under the 
 
 Disney experiences covers the range of Disney's themed entertainment options, from the Disney parks, to the Disney cruise line.
 
+## The Big 3
+
+As Disney consolidated further into EPCOT and cemented its control over the southeast, the company quickly established a total monopoly over the area. As a result, rather than vying for power and control with competitors, the various subsidiaries of the company are in a fierce battle amongst themselves for more control within the Disney corporation. The most notable of these are WED enterprises, Disney Animation, and [[Disney Electronic Content]], referred to as the big three. These companies regularly engage in illegal covert operations in attempts to thwart each other.
+
+Much of this competition is born of an intense cultural clash, as WED Enterprises is primarily made up of the descendants of the original imagineers, [[Millennium Village|legacy old money wealthy]] who believe they are the rightful heirs to the Disney kingdom. Disney Electronic Content, on the other hand, is mostly made up of new money wealth who were hired from overseas or the west coast. The resulting mix is intensely explosive. 
 ## Leadership
 
